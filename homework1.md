@@ -176,7 +176,7 @@ git config --global user.email "почта@pochta.com"
   6. Отправляем изменения на свой аккаунт в GitHub  с помощью команды
 
   ```
-  git push -u origin main
+  git push -u origin <имя вновь созданной ветки>
 
   ```
 
